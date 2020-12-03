@@ -1,5 +1,5 @@
-# Project Name
-> Here goes your awesome project description!
+# Horiseon
+> This site is designed to showcase a digital based company that assists with Search Engine Optimization, Online Reputation Management, Lead Generation, Social Media Management, Brand Awareness and Cost Management services to assist with your digital marketing needs and overall online presence. 
 
 ## Table of contents
 * [General info](#general-info)
@@ -62,9 +62,9 @@ CSS:
 
 ## Features
 List of features
-* 
-* Awesome feature 2
-* Awesome feature 3
+* Navigation Bar Linked To Appropriate Site Locations
+* Sections Designed to Float Next To Eachother 
+* HTML and CSS Optimization for Peak Performance and Storage Requirements
 
 To-do list:
 * Secondary Pages to be Added
